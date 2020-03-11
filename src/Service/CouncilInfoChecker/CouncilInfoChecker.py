@@ -1,6 +1,5 @@
 import json
 from pathlib import Path
-import pickle
 
 from src.Entity.CouncilInfo import CouncilInfo
 from typing import Union
