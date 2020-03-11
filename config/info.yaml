@@ -1,0 +1,9 @@
+address:
+  unit: 6
+  street_number: 11
+  street_name: Slevin St
+  suburb: Lilydale
+council:
+  yarra_ranges_council:
+    occupancy_permit_pdf_endpoint: https://www.yarraranges.vic.gov.au/files/assets/public/webdocuments/build-develop/building-advice/occupancy_permit_register.pdf
+    nbn_endpoint: https://places.nbnco.net.au/places/v2/details/LOC000180822270?source=website_rollout_map
